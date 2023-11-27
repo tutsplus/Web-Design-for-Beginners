@@ -1,13 +1,11 @@
 # Web Design for Beginners | FREE COURSE
 
-As a beginner you’ll probably have the same questions I did when I first started:
+If you're new to web design, this course on web design for beginners will teach you everything you need to know. ► Download creative digital assets with Envato Elements: https://elements.envato.com/?utm_campaign=yt_tutsplus_B-ytMSuwbf8&utm_medium=referral&utm_source=youtube.com&utm_content=description “How do I pick typefaces, how do I pick colors, what the heck is whitespace, and how do I position and size elements correctly?” These are exactly the kinds of questions which we’ll address in this beginner web design tutorial. 
 
-> > “How do I pick typefaces, how do I pick colors, what about icons—how do I use them correctly, where do I get them, what the heck is whitespace, how do I position and size elements correctly?”
+► Download creative digital assets with Envato Elements: https://elements.envato.com/?utm_campaign=yt_tutsplus_B-ytMSuwbf8&utm_medium=referral&utm_source=youtube.com&utm_content=description
 
-These are exactly the kinds of questions which we’ll address in this course. 
+In terms of fundamentals, you’ll learn about color, typography, spacing, sizing, imagery, and responsive web design. We’ll discuss the theory, best practices, and some tools you can use to make your job easier.
 
-In terms of fundamentals you’ll learn about color, typography, spacing, sizing, and imagery. We’ll also cover Responsive Web Design. In each of these lessons we’ll discuss the theory, best practices, and some tools you can use to make your job easier.
+When it comes to common web design patterns, you’ll learn about the elements you can use to design a web page—things like headers, hero areas, buttons, image galleries, contact forms, and more.
 
-When it comes to common patterns, you’ll learn about the various elements you can use to design a web page. Things like headers, hero areas, buttons, image galleries, contact forms, and more.
-
-For each of these patterns we’ll look at the definition and some use cases, then we’ll apply that knowledge to a demo project; a 3-page portfolio website designed specifically for this course.
+For each of these patterns, we’ll look at the definition and some use cases, and then we’ll apply that knowledge to a demo project: a three-page portfolio website designed specifically for this course.
